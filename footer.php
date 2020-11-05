@@ -90,7 +90,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         <div class="text-lg-left text-center">
-                            <p>©Copyright 2018 Developed by <a href="#" target="_blank"></a></p>
+                            <p>©Copyright 2020<a href="#" target="_blank"></a></p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
